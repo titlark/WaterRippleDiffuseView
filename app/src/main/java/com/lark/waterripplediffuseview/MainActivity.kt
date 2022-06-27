@@ -1,11 +1,11 @@
-package com.hzy.waterripplediffuseview
+package com.lark.waterripplediffuseview
 
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.hzy.diffuseview.widget.listener.OnCoreImageClickListener
-import com.hzy.waterripplediffuseview.databinding.ActivityMainBinding
+import com.lark.diffuseview.widget.listener.OnCoreImageClickListener
+import com.lark.waterripplediffuseview.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

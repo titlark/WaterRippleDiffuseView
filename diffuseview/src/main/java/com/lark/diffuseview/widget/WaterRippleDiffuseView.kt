@@ -1,4 +1,4 @@
-package com.hzy.diffuseview.widget
+package com.lark.diffuseview.widget
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -9,8 +9,8 @@ import android.util.AttributeSet
 import android.view.MotionEvent
 import android.view.View
 import androidx.annotation.ColorInt
-import com.hzy.diffuseview.R
-import com.hzy.diffuseview.widget.listener.OnCoreImageClickListener
+import com.lark.diffuseview.R
+import com.lark.diffuseview.widget.listener.OnCoreImageClickListener
 
 /**
  * 水波纹扩散组件

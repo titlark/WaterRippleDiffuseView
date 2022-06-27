@@ -1,4 +1,4 @@
-package com.hzy.waterripplediffuseview
+package com.lark.diffuseview
 
 import org.junit.Test
 
