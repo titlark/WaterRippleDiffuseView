@@ -1,0 +1,3 @@
+rootProject.name = "WaterRippleDiffuseView"
+include ':app'
+include ':diffuseview'
